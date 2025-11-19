@@ -64,7 +64,7 @@ y = y_t + (rand(size(x))*2 - 1)*maxErr;   % define noisy response
 lb = y - maxErr;                 % measurement lower bound
 ub = y + maxErr;                 % measurement upper bound
 
-e_1 = UnknownErrorEstimate(x, y, lb, ub);   % estimate for unknown error case
+e_1 = UnknownErrorEstimate(x, lb, ub);   % estimate for unknown error case
 e_2 = NormalErrorEstimate(x, y, lb, ub);    % estimate for normal error case
 ```
 
