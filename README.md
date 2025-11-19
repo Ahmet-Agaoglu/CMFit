@@ -1,4 +1,4 @@
-# CMFit: A Tool for Line Fitting Under Bounded Errors 
+# CMFit: A Tool for Line Fitting Under Bounded Errors [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17649022.svg)](https://doi.org/10.5281/zenodo.17649022)
 
 ## Authors
 [Ahmet Agaoglu](https://github.com/Ahmet-Agaoglu)
