@@ -26,8 +26,8 @@ This repository contains three MATLAB functions:
 All functions support optional FPS visualization and plotting of estimation results.
 
 ### Inputs/Outputs
-- **x** — Independent variable  
-- **y** — Dependent variable  
+- **x** — Independent variable vector
+- **y** — Dependent variable vector
 - **lb** — Lower bounds on y 
 - **ub** — Upper bounds on y
 
